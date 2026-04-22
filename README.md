@@ -12,7 +12,6 @@ Next TestLink version will 2.x with a new UX based on
 the Dashio - Bootstrap Admin Template (https://templatemag.com/dashio-bootstrap-admin-template/)
 This was the idea but @20251206 I'm still working on it.
 
-
 # TestLink 1.9.20 Raijin - Read me
 
 ## Contents
